@@ -2354,7 +2354,6 @@ if (typeof jQuery === 'undefined') {
   $.fn.affix.noConflict = function () {
     $.fn.affix = old
     return this
-  }
 
 
   // AFFIX DATA-API
